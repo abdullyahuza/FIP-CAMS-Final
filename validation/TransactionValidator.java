@@ -1,4 +1,3 @@
-// Package: validation
 package validation;
 
 public class TransactionValidator {
